@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shuvo.usad">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/usad_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/usad_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".List"></activity>
+        <activity android:name=".Mosharraf" />
+        <activity android:name=".Shuvo" />
+        <activity android:name=".Mazid" />
+        <activity android:name=".Suman" />
+        <activity android:name=".Siam" />
+        <activity android:name=".Jahid" />
+        <activity android:name=".Shariful" />
+        <activity android:name=".Jia" />
+        <activity android:name=".Rafi" />
+        <activity android:name=".Nayan" />
+        <activity android:name=".Raju2" />
+        <activity android:name=".Abubakar" />
+        <activity android:name=".Farzana" />
+        <activity android:name=".Mosharaf" />
+        <activity android:name=".Ripon" />
+        <activity android:name=".Sagor" />
+        <activity android:name=".Limon" />
+        <activity android:name=".Papul" />
+        <activity android:name=".Sumi" />
+        <activity android:name=".Asad" />
+        <activity android:name=".Hiru" />
+        <activity android:name=".Rubel" />
+        <activity android:name=".Subid" />
+        <activity android:name=".Rashed" />
+        <activity android:name=".biggamin" />
+        <activity android:name=".Alal" />
+        <activity android:name=".Farida" />
+        <activity android:name=".Ariful" />
+        <activity android:name=".Nion" />
+        <activity android:name=".Ashura" />
+        <activity android:name=".Likhon" />
+        <activity android:name=".Shirazul" />
+        <activity android:name=".Shohel" />
+        <activity android:name=".Khalil" />
+        <activity android:name=".Sabuj2" />
+        <activity android:name=".Arif" />
+        <activity android:name=".Nasir" />
+        <activity android:name=".Jahurul" />
+        <activity android:name=".Aminul" />
+        <activity android:name=".Milon" />
+        <activity android:name=".Anam" />
+        <activity android:name=".Mukul" />
+        <activity android:name=".Sohan" />
+        <activity android:name=".Sabuj" />
+        <activity android:name=".Nobel" />
+        <activity android:name=".Firoz" />
+        <activity android:name=".Zakir" />
+        <activity android:name=".Suzon" />
+        <activity android:name=".Mukto" />
+        <activity android:name=".Raju" />
+        <activity android:name=".shah" />
+        <activity android:name=".Leon" />
+        <activity android:name=".Pinky" />
+        <activity android:name=".Shahriar" />
+        <activity android:name=".Intik" />
+        <activity android:name=".Zakirul" />
+        <activity android:name=".Shahidul" />
+        <activity android:name=".Arafat" />
+        <activity android:name=".Manik" />
+        <activity android:name=".Fuad" />
+        <activity android:name=".Akash" />
+        <activity android:name=".Nisha" />
+        <activity android:name=".Bijoy" />
+        <activity android:name=".Mission" />
+        <activity android:name=".About" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
