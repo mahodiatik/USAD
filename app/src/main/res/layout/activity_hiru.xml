@@ -11,7 +11,7 @@
         android:id="@+id/btv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Intik Mamun\nUniversity of Dhaka\nSSC Batch:2013"
+        android:text="Ahsan Habib Hiru\nUniversity of Rajshahi\nSSC Batch:2015"
         android:textSize="30sp"
         android:textColor="@android:color/black"
         android:layout_centerHorizontal="true"/>
@@ -22,7 +22,7 @@
         android:id="@+id/phone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Contact: 01766175643"
+        android:text="Contact: 01717186407"
         android:textColor="@android:color/black"
         android:textSize="25sp"
         android:layout_below="@+id/btv"

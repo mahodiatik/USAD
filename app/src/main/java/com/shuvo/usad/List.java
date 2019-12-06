@@ -295,7 +295,7 @@ public class List extends AppCompatActivity {
 
         Button mosharraf = (Button)findViewById(R.id.mosharraf);
 
-        nasir.setOnClickListener(new View.OnClickListener() {
+        mosharraf.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(List.this, Mosharraf.class));
